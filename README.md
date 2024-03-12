@@ -59,7 +59,7 @@ provide a full URL as the source:
 
 The `src` attribute is always necessary, as without it, the `img` tag would have
 nothing to display.
-
+ 
 ### The Image Alt Attribute
 
 The `alt` attribute contains text relevant to the image we're displaying, and
